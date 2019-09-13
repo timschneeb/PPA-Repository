@@ -7,7 +7,7 @@ curl -s --compressed "https://thepbone.github.io/PPA-Repository/KEY.gpg" | sudo 
 sudo curl -s --compressed -o /etc/apt/sources.list.d/thepbone_ppa.list "https://thepbone.github.io/PPA-Repository/thepbone_ppa.list"
 sudo apt update
 ```
-## Installation
-```
-sudo apt install jdsp4linux-gui
-```
+## Available Packages
+* jdsp4linux-gui
+* ddc-toolbox
+
