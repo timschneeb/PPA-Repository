@@ -1,6 +1,6 @@
 #!/bin/bash
 #Portable DEB build script; jdsp-gui binary needs to be in working directory
-version=0.1
+version=1.0
 revision=0
 debname="jdsp4linux-gui_"$version-$revision
 mkdir $debname
