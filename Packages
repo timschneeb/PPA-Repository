@@ -43,3 +43,18 @@ Priority: optional
 Homepage: https://github.com/ThePBone/JDSP4Linux-GUI
 Description: Graphical User Interface for JDSP4Linux
 
+Package: jdsp4linux-gui
+Version: 1.1-0
+Architecture: amd64
+Maintainer: ThePBone <thebone.main@gmail.com>
+Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5multimedia5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5xml5 (>= 5.9.5), libgl1-mesa-dev,git
+Filename: ./jdsp4linux-gui_1.1-0.deb
+Size: 390364
+MD5sum: 455f57a16c6b178496e3d5f0b7de267f
+SHA1: d31c18cf411a865197363a482a4dd4da8ebd00e3
+SHA256: cc16034e7c8996e3329a77d28f185dafb1879598dc8f4aca6b110eae7c6e0957
+Section: sound
+Priority: optional
+Homepage: https://github.com/ThePBone/JDSP4Linux-GUI
+Description: Graphical User Interface for JDSP4Linux
+
