@@ -13,6 +13,21 @@ Priority: optional
 Homepage: https://github.com/ThePBone/DDCToolbox
 Description: Create and edit DDCs on Linux
 
+Package: ddc-toolbox
+Version: 1.1-0
+Architecture: amd64
+Maintainer: ThePBone <thebone.main@gmail.com>
+Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
+Filename: ./ddc-toolbox_1.1-0.deb
+Size: 366600
+MD5sum: c14397a2314c5d9674ff91d5be16248a
+SHA1: de7d1e9ed549368c44d18dbcf8d151824215cce0
+SHA256: 234ff401400b79b4efee5c568a5cbc206a8308554ee73f70f4fd3056f76b248f
+Section: sound
+Priority: optional
+Homepage: https://github.com/ThePBone/DDCToolbox
+Description: Create and edit DDCs on Linux
+
 Package: jdsp4linux-gui
 Version: 0.1-0
 Architecture: amd64
