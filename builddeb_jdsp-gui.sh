@@ -1,7 +1,7 @@
 #!/bin/bash
 #Portable DEB build script; jdsp-gui binary needs to be in working directory
 version=1.1
-revision=0
+revision=1
 debname="jdsp4linux-gui_"$version-$revision
 mkdir $debname
 mkdir $debname"/DEBIAN"
@@ -33,7 +33,7 @@ Version: $version-$revision
 Section: sound
 Priority: optional
 Architecture: amd64
-Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5multimedia5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5xml5 (>= 5.9.5), libgl1-mesa-dev,git
+Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5multimedia5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5xml5 (>= 5.9.5), qtbase5-dev (>= 5.9.5), qtmultimedia5-dev (>= 5.9.5), libgl1-mesa-dev,git
 Maintainer: ThePBone <thebone.main@gmail.com>
 Description: Graphical User Interface for JDSP4Linux
 Homepage: https://github.com/ThePBone/JDSP4Linux-GUI
