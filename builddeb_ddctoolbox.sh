@@ -1,6 +1,6 @@
 #!/bin/bash
 #Portable DEB build script; DDCToolbox binary needs to be in working directory
-version=1.1
+version=1.2
 revision=0
 debname="ddc-toolbox_"$version-$revision
 mkdir $debname
