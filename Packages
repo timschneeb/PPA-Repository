@@ -134,6 +134,21 @@ Homepage: https://github.com/ThePBone/JDSP4Linux-GUI
 Description: Graphical User Interface for JDSP4Linux
 
 Package: viper4linux-gui
+Version: 2.0-20
+Architecture: amd64
+Maintainer: ThePBone <tim.schneeberger@gmail.com>
+Depends: libqt5multimedia5 (>= 5.9.5), libqt5xml5 (>= 5.9.5), libqt5svg5 (>= 5.9.5), qtbase5-dev (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
+Filename: ./viper4linux-gui_2.0-20.deb
+Size: 5628600
+MD5sum: a3124eef4ab0927d9f1d852851a4d3b0
+SHA1: bed3ff4b286c3468bcbd5c532ebdc49ce11a0fa6
+SHA256: 56845de442e9c55253b34f48e58f7fdcc41800fe69cf2633988ff80eeba4dec1
+Section: sound
+Priority: optional
+Homepage: https://github.com/Audio4Linux/Viper4Linux-GUI
+Description: Official UI for Viper4Linux
+
+Package: viper4linux-gui
 Version: 2.0-7
 Architecture: amd64
 Maintainer: ThePBone <tim.schneeberger@gmail.com>
