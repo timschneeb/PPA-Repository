@@ -1,6 +1,6 @@
 #!/bin/bash
 #Portable DEB build script; DDCToolbox binary needs to be in working directory
-version=1.2
+version=1.4
 revision=0
 debname="ddc-toolbox_"$version-$revision
 mkdir $debname
@@ -33,7 +33,7 @@ Version: $version-$revision
 Section: sound
 Priority: optional
 Architecture: amd64
-Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
+Depends: libqt5core5a (>= 5.9.5), libqt5network5 (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
 Maintainer: ThePBone <thebone.main@gmail.com>
 Description: Create and edit DDCs on Linux
 Homepage: https://github.com/ThePBone/DDCToolbox
