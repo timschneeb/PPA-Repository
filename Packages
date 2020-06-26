@@ -134,21 +134,6 @@ Homepage: https://github.com/ThePBone/JDSP4Linux-GUI
 Description: Graphical User Interface for JDSP4Linux
 
 Package: viper4linux-gui
-Version: 2.0-20
-Architecture: amd64
-Maintainer: ThePBone <tim.schneeberger@gmail.com>
-Depends: libqt5multimedia5 (>= 5.9.5), libqt5xml5 (>= 5.9.5), libqt5svg5 (>= 5.9.5), qtbase5-dev (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
-Filename: ./viper4linux-gui_2.0-20.deb
-Size: 5628600
-MD5sum: a3124eef4ab0927d9f1d852851a4d3b0
-SHA1: bed3ff4b286c3468bcbd5c532ebdc49ce11a0fa6
-SHA256: 56845de442e9c55253b34f48e58f7fdcc41800fe69cf2633988ff80eeba4dec1
-Section: sound
-Priority: optional
-Homepage: https://github.com/Audio4Linux/Viper4Linux-GUI
-Description: Official UI for Viper4Linux
-
-Package: viper4linux-gui
 Version: 2.0-7
 Architecture: amd64
 Maintainer: ThePBone <tim.schneeberger@gmail.com>
@@ -158,6 +143,21 @@ Size: 5632060
 MD5sum: 0754ac0db3cd97cbd7f7b72dc6a8cb27
 SHA1: 5acdcf4e06e8ad9c5823b49293e8ef9e6df5c07f
 SHA256: a686b54a798b17a1ca8676d4b19cdd8c763323074d79e66f0c41af52fd66ee8f
+Section: sound
+Priority: optional
+Homepage: https://github.com/Audio4Linux/Viper4Linux-GUI
+Description: Official UI for Viper4Linux
+
+Package: viper4linux-gui
+Version: 2.1-22
+Architecture: amd64
+Maintainer: ThePBone <tim.schneeberger@gmail.com>
+Depends: libqt5multimedia5 (>= 5.9.5), libqt5xml5 (>= 5.9.5), libqt5svg5 (>= 5.9.5), qtbase5-dev (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
+Filename: ./viper4linux-gui_2.1-22.deb
+Size: 5627072
+MD5sum: f2c4a37ba039e274028101174d235a93
+SHA1: a5c43977539bcf3d228ad627d4dec7c80c40ff46
+SHA256: c7110117674ac1c16d62a16366f0c4e2302df85e6bc2d970e8b3adbf03d2e50a
 Section: sound
 Priority: optional
 Homepage: https://github.com/Audio4Linux/Viper4Linux-GUI
