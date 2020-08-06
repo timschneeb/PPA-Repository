@@ -164,21 +164,6 @@ Homepage: https://github.com/Audio4Linux/Viper4Linux-GUI
 Description: Official UI for Viper4Linux
 
 Package: viper4linux-gui
-Version: 2.2-32
-Architecture: amd64
-Maintainer: ThePBone <tim.schneeberger@gmail.com>
-Depends: libqt5multimedia5 (>= 5.9.5), libqt5xml5 (>= 5.9.5), libqt5svg5 (>= 5.9.5), qtbase5-dev (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev, libgstreamer-plugins-base1.0-dev, libgstreamer1.0-dev, gstreamer-1.0, gstreamer1.0-plugins-bad, libgstreamer-plugins-bad1.0-dev
-Filename: ./viper4linux-gui_2.2-32.deb
-Size: 5639732
-MD5sum: 3e3863182c3089b868f1e5a4787e30e2
-SHA1: 4b45a63603168f8290ba76e12b9474b0b4f5b57a
-SHA256: 0fb667891856cb407abe334c7230143cd34111712ebfe15bb3325a4ca54f8f09
-Section: sound
-Priority: optional
-Homepage: https://github.com/Audio4Linux/Viper4Linux-GUI
-Description: Official UI for Viper4Linux
-
-Package: viper4linux-gui
 Version: 2.2-33
 Architecture: amd64
 Maintainer: ThePBone <tim.schneeberger@gmail.com>
