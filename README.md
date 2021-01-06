@@ -9,3 +9,4 @@ sudo apt update
 ```
 ## Available Packages
 * jdsp4linux-gui
+* viper4linux-gui
