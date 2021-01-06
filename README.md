@@ -9,5 +9,3 @@ sudo apt update
 ```
 ## Available Packages
 * jdsp4linux-gui
-* ddc-toolbox
-
