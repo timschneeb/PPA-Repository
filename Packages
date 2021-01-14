@@ -1,78 +1,3 @@
-Package: ddc-toolbox
-Version: 1.0-1
-Architecture: amd64
-Maintainer: ThePBone <thebone.main@gmail.com>
-Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
-Filename: ./ddc-toolbox_1.0-1.deb
-Size: 360780
-MD5sum: acbea6f6f2369d3346112379958e15ec
-SHA1: 0b2632ea892bda809cac22dfedca96c69903c87c
-SHA256: 5150e5f116a727cd9f092b3e451f4eada5ad7dd9d7cddc8bd4d8d1ce8160f907
-Section: sound
-Priority: optional
-Homepage: https://github.com/ThePBone/DDCToolbox
-Description: Create and edit DDCs on Linux
-
-Package: ddc-toolbox
-Version: 1.1-0
-Architecture: amd64
-Maintainer: ThePBone <thebone.main@gmail.com>
-Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
-Filename: ./ddc-toolbox_1.1-0.deb
-Size: 366600
-MD5sum: c14397a2314c5d9674ff91d5be16248a
-SHA1: de7d1e9ed549368c44d18dbcf8d151824215cce0
-SHA256: 234ff401400b79b4efee5c568a5cbc206a8308554ee73f70f4fd3056f76b248f
-Section: sound
-Priority: optional
-Homepage: https://github.com/ThePBone/DDCToolbox
-Description: Create and edit DDCs on Linux
-
-Package: ddc-toolbox
-Version: 1.2-0
-Architecture: amd64
-Maintainer: ThePBone <thebone.main@gmail.com>
-Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
-Filename: ./ddc-toolbox_1.2-0.deb
-Size: 379988
-MD5sum: 9929b116c7649bf487a0f8ba633d6a74
-SHA1: 41c514477fdde41de80b021e02ec2575c04146a6
-SHA256: 026a101e478aaefd2ef7092f2a8e59d711f0485404ee7accd6ec0ed54e80105b
-Section: sound
-Priority: optional
-Homepage: https://github.com/ThePBone/DDCToolbox
-Description: Create and edit DDCs on Linux
-
-Package: ddc-toolbox
-Version: 1.3-0
-Architecture: amd64
-Maintainer: ThePBone <thebone.main@gmail.com>
-Depends: libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
-Filename: ./ddc-toolbox_1.3-0.deb
-Size: 425204
-MD5sum: 647e33e7086595fe6d4b3e55ce4d5db4
-SHA1: e5829aabe4a896787b8640c037c406784d821597
-SHA256: 57cb8fa41aa914f83e942a426e700a6b6ea9385975e3fc3df3cddf27addfa14c
-Section: sound
-Priority: optional
-Homepage: https://github.com/ThePBone/DDCToolbox
-Description: Create and edit DDCs on Linux
-
-Package: ddc-toolbox
-Version: 1.4-16
-Architecture: amd64
-Maintainer: ThePBone <tim.schneeberger@gmail.com>
-Depends: qtbase5-dev (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
-Filename: ./ddctoolbox_1.4-16.deb
-Size: 559848
-MD5sum: 6d372fcfd9f4679df2bd0a50f1ff3146
-SHA1: 3439d20b18deb5a3b6c36048615f4c2486d25706
-SHA256: 203ac5679b08d36558ad214c78229fd8c98422661e926f3fbcbbca7b3b221672
-Section: sound
-Priority: optional
-Homepage: https://github.com/ThePBone/DDCToolbox
-Description: Create and edit DDCs on Linux
-
 Package: jdsp4linux-gui
 Version: 0.1-0
 Architecture: amd64
@@ -173,6 +98,21 @@ Size: 5639660
 MD5sum: f98ae007cfef8695950112ae3aa5e5a6
 SHA1: e84fc5f39caae32660fb3370c2f76d665eb3d376
 SHA256: 22378c2f491753135fc53142319119c5a08a83cf0fdfed044a8eb126af5ec1ac
+Section: sound
+Priority: optional
+Homepage: https://github.com/Audio4Linux/Viper4Linux-GUI
+Description: Official UI for Viper4Linux
+
+Package: viper4linux-gui
+Version: 2.2-43
+Architecture: amd64
+Maintainer: ThePBone <tim.schneeberger@gmail.com>
+Depends: libqt5multimedia5 (>= 5.9.5), libqt5xml5 (>= 5.9.5), libqt5svg5 (>= 5.9.5), qtbase5-dev (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev, libgstreamer-plugins-base1.0-dev, libgstreamer1.0-dev, gstreamer1.0-plugins-bad, libgstreamer-plugins-bad1.0-dev
+Filename: ./viper4linux-gui_2.2-43.deb
+Size: 5536820
+MD5sum: 2a5d43e45e225d50978529865a1fd807
+SHA1: a283f3a83e377d98a5d32f0bb0d332e140c00b09
+SHA256: dbe29f9cfc0b59eb74b7351c0c9ed163952e39c36343b4dce8bd714f466d48ae
 Section: sound
 Priority: optional
 Homepage: https://github.com/Audio4Linux/Viper4Linux-GUI
