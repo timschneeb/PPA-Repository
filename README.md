@@ -8,5 +8,6 @@ sudo curl -s --compressed -o /etc/apt/sources.list.d/thepbone_ppa.list "https://
 sudo apt update
 ```
 ## Available Packages
-* jdsp4linux-gui
+* jamesdsp-pulse
+* jamesdsp-pipewire
 * viper4linux-gui
