@@ -291,10 +291,10 @@ Maintainer: Tim Schneeberger (thepbone) <tim.schneeberger@gmail.com>
 Depends: qtbase5-dev (>= 5.12.8), libqt5svg5 (>= 5.12.8), libglibmm-2.4-1v5, libglib2.0-0, libpulse-mainloop-glib0, libgstreamer1.0-0, libgstreamer-plugins-base1.0-0
 Conflicts: jamesdsp-pipewire
 Filename: ./jamesdsp-pulse_2.0-f7ea00_linux64.deb
-Size: 11789276
-MD5sum: 8477344485e3031328d265a322a982bd
-SHA1: 55abf249a5fd51e8614c5031efb150756315088a
-SHA256: 1e19afd595bdafdbbfe3479a4e0ea93df56b33d5f041b3ac6f89939164ff40b4
+Size: 11779660
+MD5sum: e18873b0372490be8489a2a28ed11945
+SHA1: 83fdb55b6a4365565dd537da8600b025516dc4d5
+SHA256: a091602ab21b57c3fafd5c8221e627a8c2311ec490d5597436e63251b19ab635
 Section: sound
 Priority: optional
 Homepage: https://github.com/Audio4Linux/JDSP4Linux
