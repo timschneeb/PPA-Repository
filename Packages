@@ -300,6 +300,22 @@ Priority: optional
 Homepage: https://github.com/Audio4Linux/JDSP4Linux
 Description: JamesDSP for Linux
 
+Package: jamesdsp-pulse
+Version: 2.1-d1fb43
+Architecture: amd64
+Maintainer: Tim Schneeberger (thepbone) <tim.schneeberger@gmail.com>
+Depends: qtbase5-dev (>= 5.12.8), libqt5svg5 (>= 5.12.8), libglibmm-2.4-1v5, libglib2.0-0, libpulse-mainloop-glib0, libgstreamer1.0-0, libgstreamer-plugins-base1.0-0
+Conflicts: jamesdsp-pipewire
+Filename: ./jamesdsp-pulse_2.1-d1fb43_linux64.deb
+Size: 11789752
+MD5sum: 5a4439c6e9f328e831779b3e4c372a56
+SHA1: 567f9005d8063a2d6762069c45161c62c099ceef
+SHA256: 665e0ea3d827587a463e629bb1f7ef1dafaf129fa32cbdc06982bcf316701e83
+Section: sound
+Priority: optional
+Homepage: https://github.com/Audio4Linux/JDSP4Linux
+Description: JamesDSP for Linux
+
 Package: jdsp4linux-gui
 Version: 0.1-0
 Architecture: amd64
