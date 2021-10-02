@@ -11,3 +11,4 @@ sudo apt update
 * jamesdsp-pulse
 * jamesdsp-pipewire
 * viper4linux-gui
+* ddctoolbox
