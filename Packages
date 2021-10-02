@@ -1,3 +1,18 @@
+Package: ddctoolbox
+Version: 2.0.1-b46d76
+Architecture: amd64
+Maintainer: ThePBone <tim.schneeberger@gmail.com>
+Depends: qtbase5-dev (>= 5.9.5), libqt5core5a (>= 5.9.5), libqt5widgets5 (>= 5.9.5), libqt5gui5 (>= 5.9.5), libqt5core5a (>= 5.9.5), libgl1-mesa-dev
+Filename: ./ddctoolbox_2.0.1-b46d76_linux64.deb
+Size: 783356
+MD5sum: 73382313789595a98b634e05582963fa
+SHA1: 9ac6235344b9cde6410234852d6a6459f63055b4
+SHA256: b219786b9602a6b2b8f9954caff7cba5500403f081015e07239c84e10768126b
+Section: sound
+Priority: optional
+Homepage: https://github.com/ThePBone/DDCToolbox
+Description: Create and edit DDCs on Linux
+
 Package: jamesdsp-pipewire
 Version: 0.1-0a2aa3
 Architecture: amd64
