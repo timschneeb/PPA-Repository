@@ -204,22 +204,6 @@ Priority: optional
 Homepage: https://github.com/Audio4Linux/JDSP4Linux
 Description: JamesDSP for Linux
 
-Package: jamesdsp-pipewire
-Version: 2.3-1f49c8
-Architecture: amd64
-Maintainer: Tim Schneeberger (thepbone) <tim.schneeberger@gmail.com>
-Depends: libarchive, qtbase5-dev (>= 5.12.8), libqt5svg5 (>= 5.12.8), libglibmm-2.4-1v5, libglib2.0-0, libpipewire-0.3-0
-Conflicts: jamesdsp-pulse
-Filename: ./jamesdsp-pipewire_2.3-1f49c8_linux64.deb
-Size: 27756460
-MD5sum: 60203a0d33a8e618370851db79c5666e
-SHA1: 0de20c22fc54f1f3dddd8c5450df95c34fcf7277
-SHA256: 72d0a39b16cc919790b1cd6c81ebef7857ff7b2ba8ab8a758219dfcfa59dcbe7
-Section: sound
-Priority: optional
-Homepage: https://github.com/Audio4Linux/JDSP4Linux
-Description: JamesDSP for Linux
-
 Package: jamesdsp-pulse
 Version: 0.1-0a2aa3
 Architecture: amd64
@@ -428,16 +412,16 @@ Homepage: https://github.com/Audio4Linux/JDSP4Linux
 Description: JamesDSP for Linux
 
 Package: jamesdsp-pulse
-Version: 2.3-1f49c8
+Version: 2.3-66b7cb
 Architecture: amd64
 Maintainer: Tim Schneeberger (thepbone) <tim.schneeberger@gmail.com>
-Depends: libarchive, qtbase5-dev (>= 5.12.8), libqt5svg5 (>= 5.12.8), libglibmm-2.4-1v5, libglib2.0-0, libpulse-mainloop-glib0, libgstreamer1.0-0, libgstreamer-plugins-good1.0-0
+Depends: libarchive13, qtbase5-dev (>= 5.12.8), libqt5svg5 (>= 5.12.8), libglibmm-2.4-1v5, libglib2.0-0, libpulse-mainloop-glib0, libgstreamer1.0-0, gstreamer1.0-plugins-good
 Conflicts: jamesdsp-pipewire
-Filename: ./jamesdsp-pulse_2.3-1f49c8_linux64.deb
-Size: 30366812
-MD5sum: 9c852b34ee015d5cff4a9f42fc35a99c
-SHA1: 6aafb81ab5e7e80a1792206b4d50f99a11c81718
-SHA256: ea33a8977d80eaea9da9aad3c22ef36ee50829e44f823875c69ddf81df917131
+Filename: ./jamesdsp-pulse_2.3-66b7cb_linux64.deb
+Size: 30367152
+MD5sum: 466325d4fd7adec8cd0a74162cccf371
+SHA1: 17a33649fcce596a1fe308b030f159a090256c7b
+SHA256: cbd60ad434709b9a98938290c2e303092ba0527832e3746342d9ef9d4ca765f3
 Section: sound
 Priority: optional
 Homepage: https://github.com/Audio4Linux/JDSP4Linux
