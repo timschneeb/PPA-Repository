@@ -204,6 +204,22 @@ Priority: optional
 Homepage: https://github.com/Audio4Linux/JDSP4Linux
 Description: JamesDSP for Linux
 
+Package: jamesdsp-pipewire
+Version: 2.4-49994d
+Architecture: amd64
+Maintainer: Tim Schneeberger (thepbone) <tim.schneeberger@outlook.de>
+Depends: libarchive13, qtbase5-dev (>= 5.12.8), libqt5svg5 (>= 5.12.8), libglibmm-2.4-1v5, libglib2.0-0, libpipewire-0.3-0 (>= 0.3.19-4)
+Conflicts: jamesdsp-pulse
+Filename: ./jamesdsp-pipewire_2.4-49994d_linux64.deb
+Size: 28438760
+MD5sum: c719275398a416b59825a063b997cc20
+SHA1: 03c5f36fd8ec78ce7e7127ac1e649e3cc9861ac1
+SHA256: 65fb5d0ea56a144457b58275f8f52399b28a753fc47c38a5b30860a3f69af824
+Section: sound
+Priority: optional
+Homepage: https://github.com/Audio4Linux/JDSP4Linux
+Description: JamesDSP for Linux
+
 Package: jamesdsp-pulse
 Version: 0.1-0a2aa3
 Architecture: amd64
