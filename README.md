@@ -11,7 +11,7 @@ sudo apt update
 ## Available Packages
 
 > [!WARNING]
-> This PPA is no longer actively maintained. It may still automatically receive updates because the deployment process is automated.
+> This PPA is no longer actively maintained. However, it may still automatically receive updates because the deployment process is automated.
 
 * jamesdsp-pulse
 * jamesdsp-pipewire
