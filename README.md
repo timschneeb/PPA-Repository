@@ -1,4 +1,4 @@
-# TheBone's PPA Repository
+# Tim's PPA Repository
 PPA repository for various packages
 
 
