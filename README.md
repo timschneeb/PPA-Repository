@@ -4,8 +4,8 @@ PPA repository for various packages
 
 ## Setup
 ```
-curl -s --compressed "https://thepbone.github.io/PPA-Repository/KEY.gpg" | sudo apt-key add -
-sudo curl -s --compressed -o /etc/apt/sources.list.d/thepbone_ppa.list "https://thepbone.github.io/PPA-Repository/thepbone_ppa.list"
+curl -s --compressed "https://timschneeb.github.io/PPA-Repository/KEY.gpg" | sudo apt-key add -
+sudo curl -s --compressed -o /etc/apt/sources.list.d/timschneeb_ppa.list "https://timschneeb.github.io/PPA-Repository/timschneeb_ppa.list"
 sudo apt update
 ```
 ## Available Packages
